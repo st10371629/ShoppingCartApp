@@ -1,0 +1,15 @@
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/bin/Debug/net7.0/ShoppingCartApp
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/bin/Debug/net7.0/ShoppingCartApp.deps.json
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/bin/Debug/net7.0/ShoppingCartApp.runtimeconfig.json
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/bin/Debug/net7.0/ShoppingCartApp.dll
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/bin/Debug/net7.0/ShoppingCartApp.pdb
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.csproj.AssemblyReference.cache
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.AssemblyInfoInputs.cache
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.AssemblyInfo.cs
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.csproj.CoreCompileInputs.cache
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.dll
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/refint/ShoppingCartApp.dll
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.pdb
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ShoppingCartApp.genruntimeconfig.cache
+/Users/fathimashariff/Projects/ShoppingCartApp/ShoppingCartApp/obj/Debug/net7.0/ref/ShoppingCartApp.dll
